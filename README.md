@@ -1,2 +1,2 @@
-# eatnings_track
+# earnings_track
 java program to keep records of your earnings
